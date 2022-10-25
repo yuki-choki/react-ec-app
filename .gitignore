@@ -28,3 +28,6 @@ firestore.*
 storage.rules
 .firebase/
 functions/
+
+#vscode settings
+.vscode
